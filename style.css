@@ -1,0 +1,30 @@
+body{
+    font-family:Arial, sans-serif ;
+    background-color:aqua;
+    color:#333;
+    margin:0;
+    padding: 20px;
+}
+
+h1{
+    color:rgb(58, 43, 226);
+
+}
+
+form {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgb(60, 0, 255);
+
+}
+
+.renkli{
+    color:aliceblue;
+    background-color:rgb(216, 61, 201) ;
+
+
+}
+
+
+
