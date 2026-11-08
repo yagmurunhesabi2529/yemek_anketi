@@ -27,4 +27,20 @@ form {
 }
 
 
+.menu {
+    text-align: center;
+    margin-bottom: 20px;
 
+}
+
+.menü a {
+    color:rgb(58, 43, 226);
+    text-decoration: none;
+    font-weight: bold
+}
+
+
+,.menu a:hover {
+    color: rgb(216, 61, 201)
+
+}
